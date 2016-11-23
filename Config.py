@@ -2,8 +2,8 @@ CHUNK_SIZE = 8K
 MySQLConfig = {
  'host':'localhost',
  'db':'t_dms',
- 'user':'amrut',
- 'passwd':'p0reiczm',
+ 'user':'apuser',
+ 'passwd':'user@123',
     }
 
 MyTables = """
